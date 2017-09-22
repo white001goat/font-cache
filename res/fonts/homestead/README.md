@@ -3,6 +3,23 @@
 Designed by [Luke Lisi](http://lisidesign.com)
 Distributed by [The Lost Type Co-op](http://losttype.com/)
 
+THE LOST TYPE CO-OP
+www.losttype.com
+
+## LICENSING AGREEMENT 2010
+
+YOU MAY:
+
+1) USE THIS FONT IN COMMERCIAL DESIGN
+2) USE THIS FONT IN PERSONAL DESIGN
+
+YOU MAY NOT:
+
+1) RE-DISTRIBUTE THIS FONT BY ANY MEANS, FOR FREE, OR FOR A FEE.
+2) ALTER THIS FONT FOR RE-DISTRIBUTION
+
+FOR ALL OTHER MATTERS, EMAIL US AT: losttypecoop@gmail.com
+
 ## Terms & Conditions June 2016
 
 All fonts downloaded from [LisiDesign.com](http://lisidesign.com) are independently distributed and designed by Luke Lisi. 
