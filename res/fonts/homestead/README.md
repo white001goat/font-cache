@@ -1,24 +1,21 @@
 # Homestead 
 
-Designed by [Luke Lisi](http://lisidesign.com)
-Distributed by [The Lost Type Co-op](http://losttype.com/)
-
-THE LOST TYPE CO-OP
-www.losttype.com
+  Designed by [Luke Lisi](http://lisidesign.com)
+  Distributed by [The Lost Type Co-op](http://losttype.com/)
 
 ## LICENSING AGREEMENT 2010
 
-YOU MAY:
+You may:
 
-1) USE THIS FONT IN COMMERCIAL DESIGN
-2) USE THIS FONT IN PERSONAL DESIGN
+1) Use this font in Commercial Design
+2) Use this font in Personal Design
 
-YOU MAY NOT:
+You may not:
 
-1) RE-DISTRIBUTE THIS FONT BY ANY MEANS, FOR FREE, OR FOR A FEE.
-2) ALTER THIS FONT FOR RE-DISTRIBUTION
+1) Re-distribute this font by any means, for free, or for a fee.
+2) Alter this font for re-distribution.
 
-FOR ALL OTHER MATTERS, EMAIL US AT: losttypecoop@gmail.com
+For all other matters, email : losttypecoop@gmail.com
 
 ## Terms & Conditions June 2016
 
