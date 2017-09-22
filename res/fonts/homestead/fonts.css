@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'Homestead-Regular';
+  src: url('homestead-regular.eot');
+  src: url('homestead-regular.eot?#iefix') format('embedded-opentype'),
+    url('homestead-regular.woff2') format('woff2'),
+    url('homestead-regular.woff') format('woff'),
+    url('homestead-regular.svg#homestead_regularregular') format('svg');
+}
+
+@font-face {
+  font-family: 'Homestead-One';
+  src: url('homestead-one.eot');
+  src: url('homestead-one.eot?#iefix') format('embedded-opentype'),
+    url('homestead-one.woff2') format('woff2'),
+    url('homestead-one.woff') format('woff'),
+    url('homestead-one.svg#homestead_regularregular') format('svg');
+}
+
+@font-face {
+  font-family: 'Homestead-Two';
+  src: url('homestead-two.eot');
+  src: url('homestead-two.eot?#iefix') format('embedded-opentype'),
+    url('homestead-two.woff2') format('woff2'),
+    url('homestead-two.woff') format('woff'),
+    url('homestead-two.svg#homestead_regularregular') format('svg');
+}
+
+@font-face {
+  font-family: 'Homestead-Three';
+  src: url('homestead-three.eot');
+  src: url('homestead-three.eot?#iefix') format('embedded-opentype'),
+    url('homestead-three.woff2') format('woff2'),
+    url('homestead-three.woff') format('woff'),
+    url('homestead-three.svg#homestead_regularregular') format('svg');
+}
+
