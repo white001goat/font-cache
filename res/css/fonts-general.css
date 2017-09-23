@@ -1,0 +1,31 @@
+#glyphs p {
+  line-height: 1.2em;
+  margin-bottom: 18px;
+  font: 13px Arial, sans-serif;
+}
+#glyph_chart div {
+    background-color: #d9f3ff;
+    color: black;
+    float: left;
+    font-size: 36px;
+    height: 1.2em;
+    line-height: 1.2em;
+    margin-bottom: 1px;
+    margin-right: 1px;
+    text-align: center;
+    width: 1.2em;
+    position: relative;
+    padding: .6em .2em .2em;
+}
+#glyph_chart div p {
+    position: absolute;
+    left: 0;
+    top: 0;
+    display: block;
+    text-align: center;
+    font: bold 9px Arial, sans-serif;
+    background-color: #3a768f;
+    width: 100%;
+    color: #fff;
+    padding: 2px 0;
+}
