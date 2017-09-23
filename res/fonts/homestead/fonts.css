@@ -9,6 +9,7 @@
   font-style: normal;
   src: url('homestead-regular.eot');
   src: url('homestead-regular.eot?#iefix') format('embedded-opentype'),
+    local('Homestead Regular'), local('Homestead-Regular'),
     url('homestead-regular.woff2') format('woff2'),
     url('homestead-regular.woff') format('woff'),
     url('homestead-regular.svg#homestead_regularregular') format('svg'),
@@ -21,6 +22,7 @@
   font-style: normal;
   src: url('homestead-one.eot');
   src: url('homestead-one.eot?#iefix') format('embedded-opentype'),
+    local('Homestead One'), local('Homestead-One'),
     url('homestead-one.woff2') format('woff2'),
     url('homestead-one.woff') format('woff'),
     url('homestead-one.svg#homestead_oneone') format('svg'),
@@ -33,6 +35,7 @@
   font-style: normal;
   src: url('homestead-two.eot');
   src: url('homestead-two.eot?#iefix') format('embedded-opentype'),
+    local('Homestead Two'), local('Homestead-Two'),
     url('homestead-two.woff2') format('woff2'),
     url('homestead-two.woff') format('woff'),
     url('homestead-two.svg#homesteadtwo') format('svg'),
@@ -45,6 +48,7 @@
   font-style: normal;
   src: url('homestead-three.eot');
   src: url('homestead-three.eot?#iefix') format('embedded-opentype'),
+    local('Homestead Three'), local('Homestead-Three'),
     url('homestead-three.woff2') format('woff2'),
     url('homestead-three.woff') format('woff'),
     url('homestead-three.svg#homestead_threethree') format('svg'),
@@ -57,6 +61,7 @@
   font-style: normal;
   src: url('homestead-inline.eot');
   src: url('homestead-inline.eot?#iefix') format('embedded-opentype'),
+    local('Homestead Inline'), local('Homestead-Inline'),
     url('homestead-inline.woff2') format('woff2'),
     url('homestead-inline.woff') format('woff'),
     url('homestead-inline.svg#homesteadinline') format('svg'),
@@ -69,6 +74,7 @@
     font-style: normal;
     src: url('homestead-display.eot');
     src: url('homestead-display.eot?#iefix') format('embedded-opentype'),
+      local('Homestead Display'), local('Homestead-Display'),
       url('homestead-display.woff2') format('woff2'),
       url('homestead-display.woff') format('woff'),
       url('homestead-display.svg#homestead_displaydisplay') format('svg'),
