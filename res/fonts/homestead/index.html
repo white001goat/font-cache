@@ -19,7 +19,7 @@
     .ws-banner {
       /* position: relative; */
       width: 100%;
-      margin: 0 auto;
+      /* margin: 0 auto; */
       font-size: 2em;
       /* line-height: 1em; */
       color: #3a768f;
@@ -36,11 +36,11 @@
     .ws-banner {
       font-family: 'Homestead', sanserif;
     }
-    .ws-banner-text > div, .ws-banner-text > span {
+    .ws-banner-text > span {
       position: absolute;
-      top: 0px;
+      /* top: 0px; */
     }
-    span[font-family*=" One"] {
+    .ws-banner-text: nth-child(1n+2) {
       font-size: 2em;
     }
     .ws-banner-font-one {
@@ -60,10 +60,11 @@
 <body>
   <div class="ws-banner">
     <div class="ws-banner-text ws-banner-centered">
-      <span class="ws-banner-font">WeberStudio.Net</span>
+      <span class="ws-banner-font">WeberStudio.Net
       <span class="ws-banner-font-one">WeberStudio.Net</span>
       <span class="ws-banner-font-two">WeberStudio.Net</span>
       <span class="ws-banner-font-three">WeberStudio.Net</span>
+      </span>
     </div>
   </div>
   
