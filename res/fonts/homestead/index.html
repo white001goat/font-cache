@@ -14,18 +14,11 @@
 	<link rel="stylesheet" href="//white001goat.github.io/font-cache/res/css/fonts-general.css" charset="utf-8">
 	<title>Weberstudio.net: Fonts; Homestead</title>
   <style type="text/css">
-    /*
-    body {
-      display: block;
-      margin: 0;
-      text-align: center;
-    } 
-    */
     .ws-banner {
+      display: block;
       position: relative;
       width: 100%;
-        /* margin: 0 auto; */
-      /* line-height: 1em; */
+      text-overflow: clip;
     }
     .ws-banner-centered {
       position: relative;
@@ -37,25 +30,34 @@
       position: relative;
       padding: 0;
       min-height: 2em;
+      max-height: 2em;
       font-size: 2em;
       font-family: 'Homestead',Helvetica,Arial,sans-serif;
       color: #3a768f;
       color: rgb(58, 118, 143);
       color: rgba(58, 118, 143, 0.97);
-    }
-    .ws-banner-text span {
-      display: inline-block;
-      position: absolute;
-      /* top: 0px; */
+      line-spacing: 1em;
+      -webkit-animation: bannerspash 5s; /* Safari 4+ */
+      -moz-animation: bannerspash 5s; /* Fx 5+ */
+      -o-animation: bannerspash 5s; /* Opera 12+ */
+      animation: bannerspash 5s; /* IE 10+, Fx 29+ */
     }
     @keyframes bannerspash {
-      0%, 100% {
-        font-size: 10px;
+      0% {
+        line-spacing: .5em;
+        opacity: .5;
+      }
+      25% {
+        line-spacing: normal;
+        opacity: .75;
       }
       50% {
-      font-size: 12px;
+        opacity: .95;
+      }
+      100% {
+        opacity: 1;
+      }
     }
-}
   </style>
 </head>
 <body>
