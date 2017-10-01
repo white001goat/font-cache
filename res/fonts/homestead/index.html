@@ -14,13 +14,12 @@
       /* font-family:'Homestead'; 
       font-size: 1.5em; */
     }
-    
-    
     .ws-banner {
       /* position: relative; */
       width: 100%;
       /* margin: 0 auto; */
       font-size: 2em;
+      font-family: 'Homestead', sanserif,
       /* line-height: 1em; */
       color: #3a768f;
       color: rgb(58, 118, 143);
@@ -32,15 +31,13 @@
       margin: 0 auto;
       text-align: center;
     }
-    
-    .ws-banner {
-      font-family: 'Homestead', sanserif;
-    }
     .ws-banner-text > span {
-      position: absolute;
+      /* position: absolute; */
       /* top: 0px; */
     }
-    .ws-banner-text: nth-child(1n+2) {
+    .ws-banner-text:nth-child(1n+1) {
+      display: block;
+      position: absolute;
       font-size: 2em;
     }
     .ws-banner-font-one {
@@ -59,11 +56,11 @@
 </head>
 <body>
   <div class="ws-banner">
-    <div class="ws-banner-text ws-banner-centered">
-      <span class="ws-banner-font">WeberStudio.Net
-      <span class="ws-banner-font-one">WeberStudio.Net</span>
-      <span class="ws-banner-font-two">WeberStudio.Net</span>
-      <span class="ws-banner-font-three">WeberStudio.Net</span>
+    <div class="ws-banner-centered">
+      <div class="ws-banner-text">WeberStudio.Net
+        <span class="ws-banner-font-one">WeberStudio.Net</span>
+        <span class="ws-banner-font-two">WeberStudio.Net</span>
+        <span class="ws-banner-font-three">WeberStudio.Net</div>
       </span>
     </div>
   </div>
